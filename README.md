@@ -1,2 +1,7 @@
 # freeWay
-Jogo - Reprodução
+Jogo - Reprodução 
+
+## Intrutor: Guilherme Lima - Alura
+
+#Tecnologias
+JavaScript
